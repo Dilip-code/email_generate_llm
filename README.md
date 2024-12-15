@@ -7,10 +7,10 @@ The project uses EleutherAI/gpt-neo-1.3B for testing purposes due to hardware li
 
 ### Features :
 
-Accepts user input (name, email, message, and pages visited)
-Scrapes relevant data from the provided URLs
-Uses an LLM to generate a customized email
-Returns the generated email response.
+Accepts user input (name, email, message, and pages visited),
+<br/>Scrapes relevant data from the provided URLs,
+<br/>Uses an LLM to generate a customized email,
+<br/>Returns the generated email response.
 
 ### Prerequisites :
 
